@@ -1,0 +1,2 @@
+img,output,timestamp
+.gradio/flagged/img/0d87fedd2ae6b11772dd/gif.jpg,"{""label"": ""Cat"", ""confidences"": [{""label"": ""Cat"", ""confidence"": 0.7196176052093506}, {""label"": ""Dog"", ""confidence"": 0.2803824245929718}]}",2025-11-04 15:05:42.908744
